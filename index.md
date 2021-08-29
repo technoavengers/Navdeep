@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Kubernetes Fundamentals Training
 
 You can use the [editor on GitHub](https://github.com/technoavengers/navdeep/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
